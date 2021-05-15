@@ -7,7 +7,7 @@
 	git clone https://github.com/KambojTarun/DPGitm-html-project.git -- copying project tolocal 
 	
 	
-	---------------------------------------------
+	------------------------Upload changes---------------------
 	commit and push steps:-
 	
 	git add * --------  adding all files
@@ -17,7 +17,7 @@
 	git push origin main
 	
 	
-	------------------
+	--------------Download changes------------------------------
 	
 	latest changes
 	
