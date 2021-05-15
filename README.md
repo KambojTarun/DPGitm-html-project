@@ -1,5 +1,6 @@
 # DPGitm-html-project
 
+Welcome:)
 1.	Git commands:-
 
 	clonning step:-
@@ -22,3 +23,6 @@
 	latest changes
 	
 	git pull
+	
+	
+	-----------------------------
