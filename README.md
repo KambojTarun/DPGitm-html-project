@@ -15,3 +15,10 @@
 	git commit -m "message as per choice"
 	
 	git push origin main
+	
+	
+	------------------
+	
+	latest changes
+	
+	git pull
