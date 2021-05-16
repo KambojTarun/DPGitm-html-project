@@ -26,3 +26,9 @@ Welcome:)
 	
 	
 	-----------------------------
+	
+	pwd : current directory
+	
+	cd : move to next folder
+	
+	ls -l : list of folders
